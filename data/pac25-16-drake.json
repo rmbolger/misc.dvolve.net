@@ -1,0 +1,57 @@
+{
+  "tournaments": [
+    {
+      "name": "SoCal Cup Qualifying",
+      "url": "https://events2.sportwrench.com/events/39d7c8deb/search-result/clubs?search=pinnacle&modalTeam=open",
+      "date": "October 5-6, 2025",
+      "location": "Seal Beach, CA",
+      "pools": [
+        {
+          "name": "Pool 16/15R1D1P8",
+          "placement": "2nd place",
+          "matches": [
+            {
+              "result": "W 2-0",
+              "opponent": "Westside VBC 15 Green",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxtjkELgkAQhf_KMF0NHMHMjhl1jqAO4mHTtSSx0AxC_O_tLJLVNDuwzPfePKbDBy7AcwAz81Pgh-YFHoPSANxdI1VC1N5g26qyyJ9FdUIjKiN2WLGFZtNVrS6a8ZHBxLXFc27ntS3sB8Owd9DNvSkyvV9GQD5saq2rMSPM9TxNx4whkzPOBsSx68C7yfYPkSN9SyR2SXg-OcPEgVgmySZxFAnVFef89yRJ_wKLWVS2"
+            },
+            {
+              "result": "W 2-0",
+              "opponent": "Seaside 16-Black",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJyrVipTslIw0lFQSgHShuamlmYGhhYGZkCBHKCAUnC-c2KOgnNpgUJgaWJOZlplZl66ElAyEShZrZQHUmJoputSlJidChJOAgkoG4ABiJ8G5ruBgVItVAFUX3BqYnFmSqoCUL9TTmJyNrL-1MQ0U4R-qHkg_RlAgehoAx0FCDIEIzgbjURGhqhsrMrQBKGMWB2FaGQd2FXhsA3TdXgciKkG4b_Y2FoACt1UeA"
+            },
+            {
+              "result": "L 0-2",
+              "opponent": "MB Surf 15's 1 ASICS",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJx9jsEKwjAMQH8l1GuFprBNvelE8OBBehw7dHPV4ZgymSBj_25bh5uumkObvCSPNOROFsApkIP-MfDmPptx34BCAyIuoSwgrK-wr2WRq0deHoluSt1sSGlG0J-uK3nODE4MmGQylV5qamVrZoO03UC3t1uBqCsF6N0AYSm2oegVDLkKkl6xsWEVJw2iCCkwCsP3lXxxdM04V5ytoQRHWxhTiH4J8K_-DZ1XOPOxc1x-5HHcPgHf-F0A"
+            }
+          ]
+        },
+        {
+          "name": "Pool 16/15R2D1P7",
+          "placement": "2nd place",
+          "matches": [
+            {
+              "result": "W 2-1",
+              "opponent": "VUVC B16 BLACK",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJyrVipTslIw0lFQSgHShuamlmYWxpbmhkCBHKCAUnC-c2KOgnNpgUJgaWJOZlplZl66ElAyEShZrZQHUmJoputSlJidChJOAgkopyYmJ5omg_hpYL4BGCjVQhVA9YWFhjkrOBmaKTj5ODp7I3QnmRomAlXDdbuBAVh3BlAgOhroOAMwMgQjAyQSLoWsAKsgpnY0hiGGOKZpIHasjkI0miqsZuOxwRCbhYYYhuByDghBXYFVCR4fGmBYi1ATG1sLAL6dZsc",
+              "videoUrl": "https://youtu.be/1NWmf3eSH0s?si=dvC3vZinx-qr9pI2"
+            },
+            {
+              "result": "L 0-2",
+              "opponent": "Vegas Aces 16-1",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJyrVipTslIw0lFQSgHShuamlmYW5mYGxkCBHKCAUnC-c2KOgnNpgUJgaWJOZlplZl66ElAyEShZrZQHUmJoputSlJidChJOAgkopyYmJ5omg_hpYL4BGCjVQhVA9YWlpicWKzgmpxYrAI0wRGg3MDA1SzFDaHcDA7D2DKBAdLShjgIEGcCQIYxEZhiiSiGLY5U1wGCjiWA1EGpsrI5CNKYrcHGxOgFNHJfN6FpiY2sB3SJYvw",
+              "videoUrl": "https://youtu.be/gjVygsE8YOk?si=LJjb6sYmBFFMDT7H"
+            },
+            {
+              "result": "W 2-0",
+              "opponent": "SC Legends 15-Elite",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJx9TkEOgjAQ_MpmvULCGsHUK3rzYjgSDgUKEppqVEwM4e-2iAqhoZ1kO7PTybT4xB2sHcBcT9r6LGAbxpgWpBYwuoRcQthc4dRwWRWvSpWol1wvW1TGQoG7v_FaGDk1wkrwjPuZ4UXPvf5gNxiGf1EIR1EKld-BfPcgq8c4IjXXGnHWQhyTAx94X_wojeDNQNMH2USrYZKWOBDPjWTrYs1bKLLc5W9Oku4N6N1Y4w",
+              "videoUrl": "https://youtu.be/pM0Qc-1ZxCk?si=a4cmlz4WwO5sy_Hp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
