@@ -2,7 +2,7 @@
   "tournaments": [
     {
       "name": "SoCal Cup Qualifying",
-      "url": "https://events2.sportwrench.com/events/39d7c8deb/search-result/clubs?search=pinnacle&modalTeam=open",
+      "url": "https://events2.sportwrench.com/events/39d7c8deb/search-result/clubs?search=pinnacle",
       "date": "October 5-6, 2025",
       "location": "Seal Beach, CA",
       "pools": [
@@ -48,6 +48,35 @@
               "opponent": "SC Legends 15-Elite",
               "statsUrl": "https://vbscore.dvolve.net/archive?state=eJx9TkEOgjAQ_MpmvULCGsHUK3rzYjgSDgUKEppqVEwM4e-2iAqhoZ1kO7PTybT4xB2sHcBcT9r6LGAbxpgWpBYwuoRcQthc4dRwWRWvSpWol1wvW1TGQoG7v_FaGDk1wkrwjPuZ4UXPvf5gNxiGf1EIR1EKld-BfPcgq8c4IjXXGnHWQhyTAx94X_wojeDNQNMH2USrYZKWOBDPjWTrYs1bKLLc5W9Oku4N6N1Y4w",
               "videoUrl": "https://youtu.be/pM0Qc-1ZxCk?si=a4cmlz4WwO5sy_Hp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SoCal Cup Tourney 1",
+      "url": "https://events2.sportwrench.com/events/074752ea1/search-result/clubs?search=Pinnacle",
+      "date": "October 26, 2025",
+      "location": "Seal Beach, CA",
+      "pools": [
+        {
+          "name": "Pool 16/15R1G2",
+          "placement": "TBD place",
+          "matches": [
+            {
+              "result": "TBD",
+              "opponent": "WAVE 16 Noly",
+              "statsUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": ""
             }
           ]
         }
