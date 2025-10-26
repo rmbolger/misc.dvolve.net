@@ -64,13 +64,13 @@
           "placement": "TBD place",
           "matches": [
             {
-              "result": "TBD",
+              "result": "L 0-2",
               "opponent": "WAVE 16 Noly",
-              "statsUrl": ""
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxljc0KgzAQhF8lbK8p7BYbMVd77qWFHkIOq40UKloEBRHfvam1_tQEhp18O5MOGtAHCXfQFCoKokCFkYQcNFzKmHMR1y9xLeuqcK0gkMCgOyg8JrU_Vfx0_i3xduc45WPqXfZxOBzoB_gN3LhxgpQ4l3n7CyEmnGXb0AO0MShpvDgpjrqcZjb7bWrat9LgiuOqgRbduOH__Yv_re3f9khIhQ"
             },
             {
               "result": "TBD",
-              "opponent": "TBD",
+              "opponent": "MB Surf 15's 1 ASICS",
               "statsUrl": ""
             },
             {
@@ -84,3 +84,4 @@
     }
   ]
 }
+
