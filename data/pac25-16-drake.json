@@ -73,7 +73,7 @@
               "result": "W 2-1",
               "opponent": "MB Surf 15's 1 ASICS",
               "statsUrl": "https://vbscore.dvolve.net/archive?state=eJx9TUEKwjAQ_EpYrxGy0baYm1YED57irfYQa4tgaaUSQUr_bhqtjRJcyG5mdmemhTsITuEEAqMQAzbjUUihBAGyjlVJYn0l-1o3Vf4gCBQUiBYqs8Zwum7UJTfc0cBJrjIVZAYVPWK2oLPLl2C3IlI3BcHgoDnDxY0gWcptLD8OnM-N5u2wsdU7nEEkCaNIGe37MP-h39_Qx-fjDJPShI3I3jFvkuvk3vizLWO8fZ7fWejo3DSWpt0TRaVadw",
-              "videoIrl": "https://youtu.be/XvXAj_vc9tQ?si=7ek9xitCu2W4id-t"
+              "videoUrl": "https://youtu.be/XvXAj_vc9tQ?si=7ek9xitCu2W4id-t"
             },
             {
               "result": "W 2-1",
@@ -116,6 +116,7 @@
     }
   ]
 }
+
 
 
 
