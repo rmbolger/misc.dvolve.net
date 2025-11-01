@@ -101,9 +101,9 @@
               "statsUrl": "https://vbscore.dvolve.net/archive?state=eJx9jUELgkAQhf_KMl1XmFnMam9lRLcgoot4WHVDKSwsjBD_e6u2qQTNMrBvvvdmKihBCg4JSJp5AnHhzo28gAQ_zZzD9Zkz8tjupnO2py1wUCAryA0nz1kX6qzNLDJyolWsprFRp0ZhW1C3sAssk1IX9-zxYseVb7baoJsIEQkb3LTVBFOQQUAcOX0fcqvx88c_7IeEPLB86B43Dfb2V3ovjTw48nZXwvoNVWlKQQ"
             },
             {
-              "result": "TBD",
+              "result": "L 0-2",
               "opponent": "Academy 16O Under Armour",
-              "statsUrl": ""
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxljEELwjAMhf9KidcOmumq9DYm4m0i3soOdeuYqFM8KDL23806h6tLIOS9ly8NPEGFHApQuJShwDkuVhwuoCCpTsHh9qoZSpbebc32uAUOBlQDNeW7OKEoWD_M2ZJ_JGtmTW6inFTZKeEKWhf2UJybwl7fBKYDI0QkCzkwG1cdU4HSGrmg_k38zqnbK-HdoKd9x3XG9ZhG72qqfe9_G_3PsvYDeH9KCA"
             },
             {
               "result": "TBD",
@@ -116,6 +116,7 @@
     }
   ]
 }
+
 
 
 
