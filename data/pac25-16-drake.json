@@ -93,22 +93,49 @@
       "pools": [
         {
           "name": "Pool R1H",
-          "placement": "TBD place",
+          "placement": "3rd place",
           "matches": [
             {
               "result": "L 0-2",
               "opponent": "Adversity VBC 16 Adidas",
-              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJx9jUELgkAQhf_KMl1XmFnMam9lRLcgoot4WHVDKSwsjBD_e6u2qQTNMrBvvvdmKihBCg4JSJp5AnHhzo28gAQ_zZzD9Zkz8tjupnO2py1wUCAryA0nz1kX6qzNLDJyolWsprFRp0ZhW1C3sAssk1IX9-zxYseVb7baoJsIEQkb3LTVBFOQQUAcOX0fcqvx88c_7IeEPLB86B43Dfb2V3ovjTw48nZXwvoNVWlKQQ"
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJx9jUELgkAQhf_KMl1XmFnMam9lRLcgoot4WHVDKSwsjBD_e6u2qQTNMrBvvvdmKihBCg4JSJp5AnHhzo28gAQ_zZzD9Zkz8tjupnO2py1wUCAryA0nz1kX6qzNLDJyolWsprFRp0ZhW1C3sAssk1IX9-zxYseVb7baoJsIEQkb3LTVBFOQQUAcOX0fcqvx88c_7IeEPLB86B43Dfb2V3ovjTw48nZXwvoNVWlKQQ",
+              "videoUrl": ""
             },
             {
               "result": "L 0-2",
               "opponent": "Academy 16O Under Armour",
-              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxljEELwjAMhf9KidcOmumq9DYm4m0i3soOdeuYqFM8KDL23806h6tLIOS9ly8NPEGFHApQuJShwDkuVhwuoCCpTsHh9qoZSpbebc32uAUOBlQDNeW7OKEoWD_M2ZJ_JGtmTW6inFTZKeEKWhf2UJybwl7fBKYDI0QkCzkwG1cdU4HSGrmg_k38zqnbK-HdoKd9x3XG9ZhG72qqfe9_G_3PsvYDeH9KCA"
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxljEELwjAMhf9KidcOmumq9DYm4m0i3soOdeuYqFM8KDL23806h6tLIOS9ly8NPEGFHApQuJShwDkuVhwuoCCpTsHh9qoZSpbebc32uAUOBlQDNeW7OKEoWD_M2ZJ_JGtmTW6inFTZKeEKWhf2UJybwl7fBKYDI0QkCzkwG1cdU4HSGrmg_k38zqnbK-HdoKd9x3XG9ZhG72qqfe9_G_3PsvYDeH9KCA",
+              "videoUrl": ""
             },
             {
               "result": "W 2-1",
               "opponent": "VUVC B16 BLACK",
-              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxlTc0OgjAMfpWlXkeyomDcTTDGm8YoF8JhIAYDQeNBD4R3twyBAV2Wtt9fK_iAtDncQOLatYW9xM2KQwES_OxhXZ7fkqHLjq-0ZGc8AAcFsoKS-NPWJ8ravVWeEh4TtEhVopyEtnuzCV1Qa7I1BdfAZx4leoVK8s4WO6hI-LftdTW2DGQYIkcu9BsmYSDY42Zv5-Fjjxu6iIdTZu7pLg0dZ7fEiO13yjedOEnCUWKjj-ofdl5UZw"
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxlTc0OgjAMfpWlXkeyomDcTTDGm8YoF8JhIAYDQeNBD4R3twyBAV2Wtt9fK_iAtDncQOLatYW9xM2KQwES_OxhXZ7fkqHLjq-0ZGc8AAcFsoKS-NPWJ8ravVWeEh4TtEhVopyEtnuzCV1Qa7I1BdfAZx4leoVK8s4WO6hI-LftdTW2DGQYIkcu9BsmYSDY42Zv5-Fjjxu6iIdTZu7pLg0dZ7fEiO13yjedOEnCUWKjj-ofdl5UZw",
+              "videoUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "Pool R2G2N",
+          "placement": "TBD place",
+          "matches": [
+            {
+              "result": "TDB",
+              "opponent": "SynergyForce B 16-1 Natl",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TDB",
+              "opponent": "GSL 16 Effect - Jeremiah",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TDB",
+              "opponent": "MB SURF ASICS 16's Gold",
+              "statsUrl": "",
+              "videoUrl": ""
             }
           ]
         }
