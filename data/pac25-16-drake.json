@@ -81,6 +81,36 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Chi-Town Boys 16 Open",
+      "url": "",
+      "date": "November 1-3, 2025",
+      "location": "Chicago, IL",
+      "pools": [
+        {
+          "name": "Pool R1H",
+          "placement": "TBD place",
+          "matches": [
+            {
+              "result": "TBD",
+              "opponent": "Adversity VBC 16 Adidas",
+              "statsUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "Academy 16O Under Armour",
+              "statsUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "Vegas United B16Black",
+              "statsUrl": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
+
