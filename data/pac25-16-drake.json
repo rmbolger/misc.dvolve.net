@@ -120,9 +120,9 @@
           "placement": "TBD place",
           "matches": [
             {
-              "result": "TBD",
+              "result": "W 2-1",
               "opponent": "SynergyForce B 16-1 Natl",
-              "statsUrl": "",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxljkELgkAQhf_KMl1X2NlQa29m2K2iuomHTbeMQsFDIeJ_b10xdZuBgXnfe8M08AbBKWQg0Pc4MrZcryi8QECYP5xL-SkIeuRATnzH90BBgmig0PgYhJo420o-ldavWloomUo31dut25gpaA3sQ-e6UNW9jsoqVWTT5XHIMsTM9YdsZKrL5iDiGCnTjRTNZNYcGbMcOPHgXElojBQnuZHOnfbdwfHPf0zftv8de_5p_0vSfgE93lNv",
               "videoUrl": ""
             },
             {
@@ -143,6 +143,7 @@
     }
   ]
 }
+
 
 
 
