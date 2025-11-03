@@ -141,7 +141,7 @@
         },
         {
           "name": "Pool R3Nickel",
-          "placement": "TBD place",
+          "placement": "2nd place",
           "matches": [
             {
               "result": "W 2-1",
@@ -150,9 +150,9 @@
               "videoUrl": ""
             },
             {
-              "result": "TBD",
-              "opponent": "TBD",
-              "statsUrl": "",
+              "result": "L 1-2",
+              "opponent": "SCB 16 Salty JJ",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxtj1ELgjAUhf_KuL1O2NWctbcyevChInsTH5YZimIQUYT435vTdFj3ssG5535nrIYnCJvCBQR63Malw-cuhRIE-FlunW6viiAne3J0dnlSAAUJooZK-YeVryxrc5dFquZnNZqlMpFuotS1VUwXNNrsoNBft3mhLB9vEgRfjiMuvIHb6mq5DEQUIWUU-2bD6XpUUx-Ne0qNG_0sppGZY3Lm6_iTzn60saFT__tTZfwhjpsPA5xVRA",
               "videoUrl": ""
             }
           ]
@@ -161,6 +161,7 @@
     }
   ]
 }
+
 
 
 
