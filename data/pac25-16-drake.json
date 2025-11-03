@@ -144,9 +144,9 @@
           "placement": "TBD place",
           "matches": [
             {
-              "result": "TBD",
-              "opponent": "TBD",
-              "statsUrl": "",
+              "result": "W 2-1",
+              "opponent": "SPVB B16 Elite",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxtTs0KgkAQfpVluq4wo6Sxt7Q6llR0EQ9qiqIYRNRBfPfWlU1XmoGdn-9ntoM3CJvDHQR5rk0bl9Dh0ICAoKys6-PTMnLZiZ2dY5XVwCEB0UEr8XAbSMjaPZM6l_tUrlZ5kiXrTE7FMKEK6BU4ii7hzWe-dNw31esnQ7ILL9Wyg4pBVoKIIuLEket36saKi-2y-8eSNeaRZmnU5BrsBcec0dCoVO5kOOEsic__iNOVOO6_iyJUfA",
               "videoUrl": ""
             },
             {
@@ -161,6 +161,7 @@
     }
   ]
 }
+
 
 
 
