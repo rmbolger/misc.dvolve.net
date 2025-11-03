@@ -138,6 +138,24 @@
               "videoUrl": ""
             }
           ]
+        },
+        {
+          "name": "Pool R3Nickel",
+          "placement": "TBD place",
+          "matches": [
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            }
+          ]
         }
       ]
     }
