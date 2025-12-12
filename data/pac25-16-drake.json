@@ -158,23 +158,118 @@
           ]
         }
       ]
+    },
+    {
+      "name": "SoCal Cup Tourney 2",
+      "url": "https://events.sportwrench.com/#/events/661337b37/clubs/67029",
+      "date": "November 16, 2025",
+      "location": "Seal Beach, CA",
+      "pools": [
+        {
+          "name": "Pool 16/15R1G2",
+          "placement": "4th place",
+          "matches": [
+            {
+              "result": "W 2-2",
+              "opponent": "APEX 15 A1BLACK",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxdTkEKwjAQ_EpYrxGyLa00txj1ooeCHoTQQ2wrgqWVQgUp_btppCRxliyZ2ZlkR3gDjyhUwHGTxjGyLMkoNMDh3EndEDm8yKUb-rb-kAgoaOAjtGacC0kwXe96_ayNfjPSqtalTkrD7jNjFjDZ4S8k8v2VYEIEbk9CHpdcbLHkDhZz7gFcKaRzMVvodceWYoHT3cOkdwqq8O_N0Omr4Rbub9_tb8SKYvoC_eNKwg",
+              "videoUrl": "https://youtu.be/Bw4Zr7htNtw?si=YriImWW8e16tdkS6"
+            },
+            {
+              "result": "L 0-2",
+              "opponent": "OCVC 16 Slunks",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxdjc0KwjAQhF8ljNcI2dRWyE0iXhUqXkoPUStCSyuVClL67qb_prtsyM7ky9T4QEmOOxRtA8-TXiB9jgwKYaFNxnT1YueiKvPkyyQ4DFSN3NqnnWYUrPelSROrX620SszN-De7PdpNdIWmM3voqC8txcKsytP3hEm5sQ8H7NBViz2hooi44P2MLaZTDD3vNCmjunSdiXk0U-T8KBaZYpHsqv_p5NxdjuK4-QE400-W",
+              "videoUrl": "https://youtu.be/E2uyc7AZ3QA?si=GkMvl_7k66zV4p9K"
+            },
+            {
+              "result": "L 1-2",
+              "opponent": "INDOOR",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxdjlELgjAQx7_KuF4X3CwV9haToJeM6k18WLYIEg3BIMTv3pyLzd3Yn93_fne7AT7AIwp34CxNNjribUqhBg6XVsiaiP5Nrm3fNepLIqAggQ_Q6PJpJwhL1lknX0r7N22tlKxkXOnsMWVoAkZTnJsOxyzPz3_cAhbfm5jwJ_CiQMrMQYpG5-t06WNAOC-cYrSkBS4mofdypN8Z_h6qpfVktx0L9mE-6W1Tjj9On1I_",
+              "videoUrl": "https://youtu.be/ejnmTi0KzNU?si=Zgt7AOYOxOBz3CqU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SoCal Cup Winter Formal",
+      "url": "https://events2.sportwrench.com/events/bea5bf242/clubs-teams?search=Pinn&modalTeam=open&divisionId=21803",
+      "date": "December 12-14, 2025",
+      "location": "Los Angeles, CA",
+      "pools": [
+        {
+          "name": "16OR1P11",
+          "placement": "TBD",
+          "matches": [
+            {
+              "result": "TBD",
+              "opponent": "Ocean Bay 16 Quiksilver",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "AZ Legacy 16 APEX",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "SC Legends 16-Elite",
+              "statsUrl": "",
+              "videoUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "TBD",
+          "placement": "TBD",
+          "matches": [
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "TBD",
+          "placement": "TBD",
+          "matches": [
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
