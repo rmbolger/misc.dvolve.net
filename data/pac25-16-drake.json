@@ -199,72 +199,60 @@
       "pools": [
         {
           "name": "16OR1P11",
-          "placement": "TBD",
+          "placement": "2nd place",
           "matches": [
             {
-              "result": "TBD",
+              "result": "W 2-0",
               "opponent": "Ocean Bay 16 Quiksilver",
-              "statsUrl": "",
-              "videoUrl": ""
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxtTcEKgkAQ_RWZrhvsCG6wtzK8VnToIB4mW0ncNLYUQvz3VkVcoxnYmffevLctNCB9BjeQuBFBIHwRIAMNEs5VSDqsn5e8fCsTVeZBGhgQyBZKqx-3oYdivTdUKMtfLbVSlFKQWpT1iA8F3SCOpkOqqNzRxzq9U50XL92Yycy5wExN5mio3nwHGcfIuG1kv3PaRzxzIz9fzzp37u2bsBgdnjv5S-z-tUzDP6lJ9wWfmk4K",
+              "videoUrl": "https://www.youtube.com/watch?v=pSjPZaNbILU&list=PLXgdpAJN4dZ3OdY6frKk0WJyQKJ1nnxme&index=1"
             },
             {
-              "result": "TBD",
+              "result": "W 2-1",
               "opponent": "AZ Legacy 16 APEX",
-              "statsUrl": "",
-              "videoUrl": ""
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJyrVipTsjLSUUpRsjI0NzM1NbM0NDbVUcpRslIKzndOzHEuLQjPzCtJLXLLL8pNzFHSUUpUsqpWygPKBzg6Kxia6boUJWanAsWTgELKqYnJiabJQF4aiGcABkq1YEmIJscoBZ_U9MTkSqBWBccA1wi4TiMjE6BaqE43MADpzFCyio421DHQgWBDMI1gYWIYC5M0RIaxOtHIKhFsdIhpMrJaKA00DdVNqHrRWSAdsbUAWthSkg",
+              "videoUrl": "https://www.youtube.com/watch?v=NZD4I0_wCYA&list=PLXgdpAJN4dZ3OdY6frKk0WJyQKJ1nnxme&index=3"
             },
             {
-              "result": "TBD",
+              "result": "L 2-0",
               "opponent": "SC Legends 16-Elite",
-              "statsUrl": "",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxljcEOgjAMhl-F1OtMNhMY7mamnDyYcPBAOEyYSpxgEL0Q3t2NhTmlTbP-f_utPbyBrRCUwAiNwpDSOF4jUMAgbbhQ_PU4VnUn26Rp70IBAgGsh1rPDxsekGi5bcVNav-krYUUhQgLrc5G4TFgGIcWSnmwlxdZl0_D7lTVOZZikxObjGHYK7Asw4joxMi-tvO9b00dcZu-9lSOMuKUz__-gf84PLtJ5n6eDx-GQEzi",
+              "videoUrl": "https://www.youtube.com/watch?v=IY-hjogVNzo&list=PLXgdpAJN4dZ3OdY6frKk0WJyQKJ1nnxme&index=6"
+            }
+          ]
+        },
+        {
+          "name": "16OR2P1",
+          "placement": "4th place",
+          "matches": [
+            {
+              "result": "L 0-2",
+              "opponent": "MB Surf 16s ASICS",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxVjU8LgkAQxb-KTNcJ3ErLvdmG0CEI9tBBPIz_KDKNLbuI371VM3ZnmIX33vx2OvgAXyHkwNnW9_zNOtgFCBVwkI2gSrTPy61-Fypq1IMqQCDgHdQ6P4fCYf7yoOheaD_V1qKgjLxMq3JQ7ljQj-EEnfaObFWpwZcTyqOQM5l6jPTuj4zGGsgr8Dhm6CJD851m1mY6a9szU5Zg7NqO0fbv9gX71p9Lkv4LzltJDg",
+              "videoUrl": "https://www.youtube.com/watch?v=PojzXNS0izE&list=PLXgdpAJN4dZ2jyJOmewDfSEEI7zL4YezB&index=1"
+            },
+            {
+              "result": "L 0-2",
+              "opponent": "OCVC 16 Slunks",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxtjssKwjAQRX-ljNsIibZRspOIW4WCLkoXY21RGlOJ1k3pv5umSo01Q4Y7j3OZBp4gZgROINiCRzxahnNGQIGAuJKoZH07XPQjN5vKXFEBAQTRgLbz3UoGjE_XBsvc9o-2NckxwyizVdFV1D1o3bCHtnLfUUGsal3eP1gRYpjRMXYGkSSUUMLc74O-NfX0sPNP-ZTLKUmY5zM4fW-OXfxr2A_ncpq2L3SRS8U",
+              "videoUrl": "https://www.youtube.com/watch?v=4rJAqOoEkg4&list=PLXgdpAJN4dZ2jyJOmewDfSEEI7zL4YezB&index=3"
+            },
+            {
+              "result": "L 0-2",
+              "opponent": "SASVBC B 16 BROOK",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxlTM8LgjAU_lfkdV2wN3LRbm7hpYORUAfxsMwoMg2pLuL_3rZEF72xt-_Hvq-DNwhG4AQClzzkHFcsJFCBgLRRulKvx-FaP8s2btq7roCABtFBbfxtpALk83Wrb6XRj0aalbrQYWHY2TLqBnpnfkNplO6lCqRJBnKXJJsxydjC_B2SsRubvIDIMkpwPHS4dtM_hJ6Loza9DuUkQ4I_nXRyPe4j9DS_0_bl_Qcp2khE",
               "videoUrl": ""
             }
           ]
         },
         {
-          "name": "TBD",
-          "placement": "TBD",
+          "name": "16OR3Bronze",
+          "placement": "6th place",
           "matches": [
             {
-              "result": "TBD",
-              "opponent": "TBD",
-              "statsUrl": "",
-              "videoUrl": ""
-            },
-            {
-              "result": "TBD",
-              "opponent": "TBD",
-              "statsUrl": "",
-              "videoUrl": ""
-            },
-            {
-              "result": "TBD",
-              "opponent": "TBD",
-              "statsUrl": "",
-              "videoUrl": ""
-            }
-          ]
-        },
-        {
-          "name": "TBD",
-          "placement": "TBD",
-          "matches": [
-            {
-              "result": "TBD",
-              "opponent": "TBD",
-              "statsUrl": "",
-              "videoUrl": ""
-            },
-            {
-              "result": "TBD",
-              "opponent": "TBD",
-              "statsUrl": "",
-              "videoUrl": ""
-            },
-            {
-              "result": "TBD",
-              "opponent": "TBD",
-              "statsUrl": "",
+              "result": "L 0-2",
+              "opponent": "AZ Fear 16 Black",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxljTEPgjAQhf8Kea43XDXQpBtqmJ1tOlSgMYE4MLgQ_rttSbXgDZf3Xt_Xm_GGOhI6KCGrUp5YlpIwQgEECzXj5fWtvhSiKq6THXqfP3x0cF0rmb1zwXEcLPFxhep70fR2CuB5tO2QwFB0LoFNnAA-obQWJIgp7Z_a-1WJTOWJ14a02HT4uzn7Y3_lv7-5YMzyAcwxQKk",
               "videoUrl": ""
             }
           ]
