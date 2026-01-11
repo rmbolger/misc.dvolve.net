@@ -258,6 +258,38 @@
           ]
         }
       ]
+    },
+    {
+      "name": "SoCal Cup Friendly",
+      "url": "https://events2.sportwrench.com/events/3ec45116a/clubs-teams?search=Pinnacle",
+      "date": "January 10, 2026",
+      "location": "Seal Beach, CA",
+      "pools": [
+        {
+          "name": "Pool 16/15R1P1",
+          "placement": "2nd place",
+          "matches": [
+            {
+              "result": "W 2-0",
+              "opponent": "OCCVBC 16-Tanner",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJx1jUELwjAMhf_KiNcIiWCV3rSys6B4KTvUrUNxVBkoyNh_t6t0rgdfSEje4yMdvEAuECqQvBJrEkIwITQg4XBXplHPR5a3V-uq5g0IBmQHzof7jcpYzHetuVnvn701s6Y0y9Jf9XBREPQh_EJKnbYBOxrnbBs5IsG1jVweNHAXkFoTEjL-ZiwOzROXk-Zxn7AFakpcTkj6Q6Z_phyPORVF_wEorUjm",
+              "videoUrl": "https://www.youtube.com/watch?v=sawtl8aFmEk&list=PLXgdpAJN4dZ32tDt8Um_HnHv5nZvCuqzm&index=1"
+            },
+            {
+              "result": "W 2-0",
+              "opponent": "SC Legends 16-Elite",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJyrVipTsjLSUUpRsjI0N7MwMDeyMDfTUcpRslIKzndOzHEuLVBwK8pMzUvJqVTSUUpUsqpWygNKBjg6Kxia6boUJWanAsWTgELKqYnJiabJQF4aiGcABkq1YEmIpmBnBZ_UdKBZxSC9rjmZJXC95gYgCNPrBgYgvRlKVtHRBjrI0BCMDeE8Q6gIAiPUINOoIkiqY3WiUfUhTEbmYehDY8NFYmNrAYenS00",
+              "videoUrl": "https://www.youtube.com/watch?v=FGCZupoo0ZI&list=PLXgdpAJN4dZ32tDt8Um_HnHv5nZvCuqzm&index=3"
+            },
+            {
+              "result": "L 1-2",
+              "opponent": "Pulse 16 Lila",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxtjU0LgkAQhv-KTNcJZqTU9hZGpw5Bx8XDphtJi4VhEOJ_b5P8WHNhl33ej5kaXiB8hAwEh0FEEa38EMGAgNM9ViauHt6-zHWRmTcgKBA1FNY8bmOPg-WuVDdt9bOVFlqlap1aunyJ2gNNa_5KlXlqW_MOuVF9S4e80f-tKwgpCQl5dLvf8A5ESJMkO25Ho2SCkntt4k1UntnNLrXT5re7E8hJcZI0H7NyU5g",
+              "videoUrl": "https://www.youtube.com/watch?v=yiAgLkn5ZWg&list=PLXgdpAJN4dZ32tDt8Um_HnHv5nZvCuqzm&index=5"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
