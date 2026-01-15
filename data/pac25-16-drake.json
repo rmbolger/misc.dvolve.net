@@ -290,6 +290,74 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Southwest Boys Classic",
+      "url": "https://results.advancedeventsystems.com/event/PTAwMDAwNDE0MDg90/clubs/23071/teams",
+      "date": "January 17-19, 2026",
+      "location": "Phoenix, AZ",
+      "pools": [
+        {
+          "name": "16OR1G1P4",
+          "placement": "TBD",
+          "matches": [
+            {
+              "result": "TBD",
+              "opponent": "Ignite Boys 16 National",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "JAX SKYLINE 16B Royal",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "Bay to Bay 16-1",
+              "statsUrl": "",
+              "videoUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "TBD",
+          "placement": "TBD",
+          "matches": [
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            },
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "TBD",
+          "placement": "TBD",
+          "matches": [
+            {
+              "result": "TBD",
+              "opponent": "TBD",
+              "statsUrl": "",
+              "videoUrl": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
