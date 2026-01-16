@@ -298,24 +298,24 @@
       "location": "Phoenix, AZ",
       "pools": [
         {
-          "name": "16OR1G1P4",
+          "name": "16OR1G1P3",
           "placement": "TBD",
           "matches": [
             {
               "result": "TBD",
-              "opponent": "Ignite Boys 16 National",
+              "opponent": "ACAD Boys 16 Red",
               "statsUrl": "",
               "videoUrl": ""
             },
             {
               "result": "TBD",
-              "opponent": "JAX SKYLINE 16B Royal",
+              "opponent": "Elevation 16 Peak",
               "statsUrl": "",
               "videoUrl": ""
             },
             {
               "result": "TBD",
-              "opponent": "Bay to Bay 16-1",
+              "opponent": "Team Rockstar 16 Angel",
               "statsUrl": "",
               "videoUrl": ""
             }
