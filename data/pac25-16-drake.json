@@ -302,9 +302,9 @@
           "placement": "TBD",
           "matches": [
             {
-              "result": "TBD",
+              "result": "L 1-2",
               "opponent": "ACAD Boys 16 Red",
-              "statsUrl": "",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxdjtELgjAQxv8VuV4XbIIae7NJz1GP4sPUhZEkNCtC_N87l-KtGwff7n7fxw3wAhkyqEGKJN7FCQ9FwqAFCefu2TdvY_t997Gq1dZeK2CgQQ5wx_0xVYGIt9lD3wzOSxxtjK50NFGX6cddweiWP1Oq0gxdwcnUi6eMhEZq9hxcTZ4GZJ5zJtjai1q1P-GzFkSte8q4LlhOee7xfjq94D-VktiY6t9LGfo4Ibz0ohi_M4tXLw",
               "videoUrl": ""
             },
             {
@@ -361,3 +361,4 @@
     }
   ]
 }
+
