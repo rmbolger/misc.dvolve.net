@@ -299,7 +299,7 @@
       "pools": [
         {
           "name": "16OR1G1P3",
-          "placement": "TBD",
+          "placement": "4th",
           "matches": [
             {
               "result": "L 1-2",
@@ -308,15 +308,15 @@
               "videoUrl": ""
             },
             {
-              "result": "TBD",
+              "result": "L 0-2",
               "opponent": "Elevation 16 Peak",
-              "statsUrl": "",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxtjlELgjAQgP-KXK8LtlFT9pZWz0KP4sNlC0VRaGaE-N-bLsxVNza27-67Ww8dSE7gApL5IhC-L0RAoAIJp-be5g-l27B56qhCrYsMCCDIHmqTj3eRx8R6f8NSGX42aKUww-1YdR1fdAoYpqSVDpXqsC2a2qherLCcTc43pvZtHqcYzRxkkjBCid3LG3PYN10adrH5NDQlCXUybn_6M-PThzrs3x_shHR4AWhhTi4",
               "videoUrl": ""
             },
             {
-              "result": "TBD",
+              "result": "L 0-2",
               "opponent": "Team Rockstar 16 Angel",
-              "statsUrl": "",
+              "statsUrl": "https://vbscore.dvolve.net/archive?state=eJxtjs0OgjAQhF-FrNc1aUn46w0xno0eCYeCRQgEEooaQ3h325pGRPcw3Z2dr9kJ7sBchAswGvihH3pRFCG0wODc38bqIeS4658yabmUdQEIHNgEndof48Sh_nY_8EYoP1fWRvCCezpV6omYgtks39CpLxo58kGRTtxdRWtJQt0yyC15MKXJCliaUiRIUat9P72dv_WfZzTDlCxSyx_Ij64T9gayuoRm2fwCtLBK2Q",
               "videoUrl": ""
             }
           ]
